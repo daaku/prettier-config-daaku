@@ -1,0 +1,9 @@
+{
+  "name": "prettier-config-daaku",
+  "version": "1.0.0",
+  "description": "prettier config for daaku",
+  "repository": "git@github.com:daaku/prettier-config-daaku",
+  "keywords": [],
+  "author": "Naitik Shah <n@daaku.org>",
+  "license": "MIT"
+}
